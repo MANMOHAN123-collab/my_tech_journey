@@ -1,1 +1,1 @@
-# my_tech_journey
+My first project in C
